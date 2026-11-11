@@ -120,6 +120,8 @@ Get-FileHash .\PhoenixStudio-vX.Y.zip -Algorithm SHA256
 
 El valor debe coincidir con el de las notas de la versión.
 
+Análisis de VirusTotal de la v1.0.1 (0 / 66 detecciones): [https://www.virustotal.com/gui/file/f8243dec70ed48e1c0ba76f0e45ff4b47cb3d92ca3e1e4e0be628aee7986d038](https://www.virustotal.com/gui/file/f8243dec70ed48e1c0ba76f0e45ff4b47cb3d92ca3e1e4e0be628aee7986d038)
+
 > Windows SmartScreen o tu antivirus pueden advertir de un programa sin firma digital. Si lo bajaste de esta página y el hash coincide, puedes elegir *Más información > Ejecutar de todas formas*.
 
 ## Apoya el proyecto

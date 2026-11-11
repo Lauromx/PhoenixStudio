@@ -120,6 +120,8 @@ Get-FileHash .\PhoenixStudio-vX.Y.zip -Algorithm SHA256
 
 The value must match the one in the release notes.
 
+VirusTotal scan of v1.0.1 (0 / 66 detections): [https://www.virustotal.com/gui/file/f8243dec70ed48e1c0ba76f0e45ff4b47cb3d92ca3e1e4e0be628aee7986d038](https://www.virustotal.com/gui/file/f8243dec70ed48e1c0ba76f0e45ff4b47cb3d92ca3e1e4e0be628aee7986d038)
+
 > Windows SmartScreen or your antivirus may warn about a program that is not code-signed. If you downloaded it from this page and the hash matches, you can safely choose *More info > Run anyway*.
 
 ## Support the project
