@@ -33,9 +33,70 @@ Phoenix Studio is a native Windows application (no .NET, no runtime to install) 
 
 ## Screenshots
 
-| Tool palette and project structure | Edit menu |
-|---|---|
-| ![Tool palette](capturas/caja-de-herramientas.png) | ![Edit menu](capturas/menu-editar.png) |
+### Design
+
+![Main window: design view with a control selected and the Properties inspector filled in](capturas/ventana-principal.png)
+*Main window: design view with a control selected and the Properties inspector filled in*
+
+![Tool palette with collapsible categories, and the Structure tree following the selection](capturas/caja-de-herramientas.png)
+*Tool palette with collapsible categories, and the Structure tree following the selection*
+
+![Properties panel: the Events tab](capturas/propiedades-eventos.png)
+*Properties panel: the Events tab*
+
+![ListView with groups in the designer (Groups, GroupView and AlternateRows in the inspector)](capturas/listview-grupos.png)
+*ListView with groups in the designer (Groups, GroupView and AlternateRows in the inspector)*
+
+![Data controls: DBGrid, DBEdit and DBNavigator showing real SQLite records at design time](capturas/controles-de-datos.png)
+*Data controls: DBGrid, DBEdit and DBNavigator showing real SQLite records at design time*
+
+![Multi-window project (.afp) and the Project panel](capturas/proyecto-varias-ventanas.png)
+*Multi-window project (.afp) and the Project panel*
+
+
+### Code, run and AI
+
+![Code tab: highlighted .au3 with the autocomplete list open](capturas/codigo-autocompletado.png)
+*Code tab: highlighted .au3 with the autocomplete list open*
+
+![Code Library (Ctrl+J): search, examples and preview](capturas/biblioteca-de-codigo.png)
+*Code Library (Ctrl+J): search, examples and preview*
+
+![Au3Check output with the error line marked](capturas/au3check-salida.png)
+*Au3Check output with the error line marked*
+
+![The generated program running (AutoIt window)](capturas/programa-corriendo.png)
+*The generated program running (AutoIt window)*
+
+![AI assistant panel (bring your own provider and key)](capturas/asistente-ia.png)
+*AI assistant panel (bring your own provider and key)*
+
+
+### Editors, templates and interface
+
+![Groups Editor with live preview](capturas/editor-grupos.png)
+*Groups Editor with live preview*
+
+![Columns Editor (ListView)](capturas/editor-columnas.png)
+*Columns Editor (ListView)*
+
+![Menu Designer](capturas/editor-de-menus.png)
+*Menu Designer*
+
+![New from template, with form preview](capturas/nuevo-desde-plantilla.png)
+*New from template, with form preview*
+
+![Edit menu](capturas/menu-editar.png)
+*Edit menu*
+
+![About: logo, version and the Donate button](capturas/acerca-de.png)
+*About: logo, version and the Donate button*
+
+![View > Language: the nine interface languages](capturas/menu-idioma.png)
+*View > Language: the nine interface languages*
+
+![Main window in Spanish](capturas/ventana-principal-es.png)
+*Main window in Spanish*
 
 ## Requirements
 

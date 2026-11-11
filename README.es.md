@@ -33,9 +33,70 @@ Phoenix Studio es una aplicación nativa de Windows (sin .NET ni nada que instal
 
 ## Capturas
 
-| Caja de herramientas y estructura | Menú Editar |
-|---|---|
-| ![Caja de herramientas](capturas/caja-de-herramientas.png) | ![Menú Editar](capturas/menu-editar.png) |
+### Diseño
+
+![Ventana principal: vista de diseño con un control elegido y el inspector de propiedades lleno](capturas/ventana-principal.png)
+*Ventana principal: vista de diseño con un control elegido y el inspector de propiedades lleno*
+
+![Caja de herramientas con categorías plegables y el árbol de estructura que sigue la selección](capturas/caja-de-herramientas.png)
+*Caja de herramientas con categorías plegables y el árbol de estructura que sigue la selección*
+
+![Panel de propiedades: la pestaña de eventos](capturas/propiedades-eventos.png)
+*Panel de propiedades: la pestaña de eventos*
+
+![ListView con grupos en el diseñador (Groups, GroupView y AlternateRows en el inspector)](capturas/listview-grupos.png)
+*ListView con grupos en el diseñador (Groups, GroupView y AlternateRows en el inspector)*
+
+![Controles de datos: DBGrid, DBEdit y DBNavigator con registros reales de SQLite al diseñar](capturas/controles-de-datos.png)
+*Controles de datos: DBGrid, DBEdit y DBNavigator con registros reales de SQLite al diseñar*
+
+![Proyecto de varias ventanas (.afp) y panel del proyecto](capturas/proyecto-varias-ventanas.png)
+*Proyecto de varias ventanas (.afp) y panel del proyecto*
+
+
+### Código, ejecución e IA
+
+![Pestaña Código: .au3 con colores y la lista de autocompletar abierta](capturas/codigo-autocompletado.png)
+*Pestaña Código: .au3 con colores y la lista de autocompletar abierta*
+
+![Biblioteca de código (Ctrl+J): búsqueda, ejemplos y vista previa](capturas/biblioteca-de-codigo.png)
+*Biblioteca de código (Ctrl+J): búsqueda, ejemplos y vista previa*
+
+![Salida de Au3Check con la línea del error marcada](capturas/au3check-salida.png)
+*Salida de Au3Check con la línea del error marcada*
+
+![El programa generado corriendo (ventana de AutoIt)](capturas/programa-corriendo.png)
+*El programa generado corriendo (ventana de AutoIt)*
+
+![Panel del asistente de IA (con tu propio proveedor y clave)](capturas/asistente-ia.png)
+*Panel del asistente de IA (con tu propio proveedor y clave)*
+
+
+### Editores, plantillas e interfaz
+
+![Editor de grupos con vista previa](capturas/editor-grupos.png)
+*Editor de grupos con vista previa*
+
+![Editor de columnas (ListView)](capturas/editor-columnas.png)
+*Editor de columnas (ListView)*
+
+![Diseñador de menús](capturas/editor-de-menus.png)
+*Diseñador de menús*
+
+![Nuevo desde plantilla, con vista previa de la ventana](capturas/nuevo-desde-plantilla.png)
+*Nuevo desde plantilla, con vista previa de la ventana*
+
+![Menú Editar](capturas/menu-editar.png)
+*Menú Editar*
+
+![Acerca de: logo, versión y botón de donar](capturas/acerca-de.png)
+*Acerca de: logo, versión y botón de donar*
+
+![Ver > Idioma: los nueve idiomas de la interfaz](capturas/menu-idioma.png)
+*Ver > Idioma: los nueve idiomas de la interfaz*
+
+![Ventana principal en español](capturas/ventana-principal-es.png)
+*Ventana principal en español*
 
 ## Requisitos
 
