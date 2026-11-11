@@ -1,0 +1,113 @@
+PHOENIX STUDIO - TERMS OF USE / TÉRMINOS DE USO
+================================================
+
+ENGLISH
+-------
+
+1. FREE OF CHARGE. Phoenix Studio is distributed free of charge.
+
+2. NO WARRANTY. The program is provided "AS IS", without warranty of any kind,
+   express or implied, including but not limited to merchantability, fitness
+   for a particular purpose, or absence of errors.
+
+3. NO LIABILITY. The author accepts no responsibility whatsoever for what you,
+   or anyone else, does or may do with the program, nor for the programs,
+   scripts or files created with it, nor for any damage, loss of data, loss of
+   profit or any other harm, direct or indirect, arising from its use or from
+   the impossibility of using it. You use it entirely at your own risk and you
+   are solely responsible for what you create with it.
+
+4. INTENDED USE. Phoenix Studio is a tool for writing scripting programs for
+   Windows in a correct, ethical and good-faith way. The author does not
+   facilitate, promote or support anything else.
+
+5. PROHIBITED USE. You may not use Phoenix Studio to create, modify, spread or
+   assist with viruses, malware, ransomware, worms, spyware, trojans, hacking
+   tools or attacks of any kind, or any other software designed to harm, deceive
+   or take control of the computers, data or accounts of other people without
+   their knowledge and consent. Using the program for any of these purposes is
+   not authorized and the author disowns it.
+
+6. REDISTRIBUTION. Anyone may redistribute Phoenix Studio, free of charge or
+   not, as long as it is distributed UNMODIFIED, in its original form and with
+   this file. You may not modify it by reverse engineering, decompiling,
+   disassembling or by any other means, nor distribute modified versions.
+
+7. YOUR PROGRAMS BELONG TO YOU. The programs, scripts and files you create with
+   Phoenix Studio are the property of whoever created them. Phoenix Studio
+   claims no authorship or ownership of anything you create: it only makes
+   scripting easier. You may distribute your programs freely, with no need to
+   give credit to Phoenix Studio and with no payment of any kind for having used
+   it, even if you sell your programs or distribute them commercially.
+   (Components of AutoIt, which Phoenix Studio does not include, remain
+   under AutoIt's own terms.)
+
+8. AUTOIT. The creator of the scripting language, and of everything that makes
+   the programs run, is AutoIt. Phoenix Studio is only an interface that makes
+   it easier to create AutoIt scripts. AutoIt has its own rules, licenses and
+   terms of use, and they must be respected when you use Phoenix Studio, exactly
+   as when you use AutoIt directly. Phoenix Studio complies with them. Phoenix
+   Studio is an independent tool and is not affiliated with or endorsed by the
+   AutoIt project. "AutoIt" and the other names mentioned belong to their
+   respective owners.
+
+9. THIRD-PARTY COMPONENTS keep their own licenses and copyright notices.
+
+By downloading, installing or using Phoenix Studio you accept these terms.
+
+
+ESPAÑOL
+-------
+
+1. GRATUITO. Phoenix Studio se distribuye sin costo.
+
+2. SIN GARANTÍA. El programa se entrega «TAL CUAL», sin garantía de ningún
+   tipo, expresa o implícita, incluidas la comerciabilidad, la idoneidad para
+   un fin concreto o la ausencia de errores.
+
+3. SIN RESPONSABILIDAD. El autor no asume responsabilidad alguna por lo que tú,
+   o cualquier otra persona, haga o pueda hacer con el programa, ni por los
+   programas, scripts o archivos creados con él, ni por ningún daño, pérdida de
+   datos, lucro cesante u otro perjuicio, directo o indirecto, derivado de su
+   uso o de la imposibilidad de usarlo. Lo usas bajo tu propio riesgo y eres el
+   único responsable de lo que crees con él.
+
+4. USO PREVISTO. Phoenix Studio es una herramienta para hacer programas de
+   scripting para Windows de forma correcta, ética y de buena fe. El autor no
+   facilita, fomenta ni apoya nada distinto.
+
+5. USO PROHIBIDO. No puedes usar Phoenix Studio para crear, modificar,
+   difundir o ayudar con virus, malware, ransomware, gusanos, spyware,
+   troyanos, herramientas de hacking o ataques de cualquier tipo, ni cualquier
+   otro software pensado para dañar, engañar o tomar el control de los equipos,
+   datos o cuentas de otras personas sin su conocimiento y consentimiento. Usar
+   el programa con esos fines no está autorizado y el autor lo desaprueba.
+
+6. REDISTRIBUCIÓN. Cualquiera puede redistribuir Phoenix Studio, gratis o no,
+   siempre que se distribuya SIN MODIFICAR, en su forma original y con este
+   archivo. No se permite modificarlo mediante ingeniería inversa,
+   descompilación, desensamblado ni de cualquier otra forma, ni distribuir
+   versiones modificadas.
+
+7. TUS PROGRAMAS SON TUYOS. Los programas, scripts y archivos que crees con
+   Phoenix Studio son propiedad de quien los creó. Phoenix Studio no se atribuye
+   la autoría ni la propiedad de nada de lo que crees: solo facilita el
+   scripting. Puedes distribuir tus programas libremente, sin necesidad de dar
+   crédito a Phoenix Studio y sin pagar nada por haberlo usado, aunque vendas
+   tus programas o los distribuyas comercialmente. (Los
+   componentes de AutoIt, que Phoenix Studio no incluye, siguen bajo los
+   términos propios de AutoIt.)
+
+8. AUTOIT. El creador del lenguaje de scripting, y de todo lo que hace funcionar
+   los programas, es AutoIt. Phoenix Studio es solo una interfaz que facilita la
+   creación de scripts de AutoIt. AutoIt tiene sus propias reglas, licencias y
+   términos de uso, y deben respetarse al usar Phoenix Studio, igual que al usar
+   AutoIt directamente. Phoenix Studio cumple con ellas. Phoenix Studio es una
+   herramienta independiente, sin relación con el proyecto AutoIt ni respaldada
+   por él. «AutoIt» y los demás nombres citados pertenecen a sus respectivos
+   propietarios.
+
+9. LOS COMPONENTES DE TERCEROS conservan sus propias licencias y avisos de
+   derechos de autor.
+
+Al descargar, instalar o usar Phoenix Studio aceptas estos términos.
