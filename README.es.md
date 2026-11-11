@@ -35,6 +35,9 @@ Phoenix Studio es una aplicación nativa de Windows (sin .NET ni nada que instal
 
 ### Diseño
 
+![Pantalla de inicio: proyectos y ventanas recientes en tarjetas con vista previa, los fijados arriba, las cuatro formas de empezar y las herramientas de AutoIt encontradas](capturas/pantalla-de-inicio.png)
+*Pantalla de inicio: proyectos y ventanas recientes en tarjetas con vista previa, los fijados arriba, las cuatro formas de empezar y las herramientas de AutoIt encontradas*
+
 ![Ventana principal: vista de diseño con un control elegido y el inspector de propiedades lleno](capturas/ventana-principal.png)
 *Ventana principal: vista de diseño con un control elegido y el inspector de propiedades lleno*
 

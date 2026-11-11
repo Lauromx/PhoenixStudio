@@ -35,6 +35,9 @@ Phoenix Studio is a native Windows application (no .NET, no runtime to install) 
 
 ### Design
 
+![Start page: recent projects and forms as cards with a live preview, pinned ones on top, the four ways to start and the AutoIt tools found](capturas/pantalla-de-inicio.png)
+*Start page: recent projects and forms as cards with a live preview, pinned ones on top, the four ways to start and the AutoIt tools found*
+
 ![Main window: design view with a control selected and the Properties inspector filled in](capturas/ventana-principal.png)
 *Main window: design view with a control selected and the Properties inspector filled in*
 
