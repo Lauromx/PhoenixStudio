@@ -110,17 +110,17 @@ Phoenix Studio es una aplicación nativa de Windows (sin .NET ni nada que instal
 
 1. Descarga el último `.zip` desde la página de **Releases**.
 2. Comprueba el SHA-256 que aparece en las notas de la versión (abajo).
-3. Descomprímelo donde quieras y ejecuta `ps.exe`. No hay instalador y no escribe nada fuera de su carpeta y de tu perfil de usuario.
+3. Descomprímelo donde quieras y ejecuta `bin\PhoenixStudio.exe`. No hay instalador y no escribe nada fuera de su carpeta y de tu perfil de usuario.
 
 Para comprobar la descarga:
 
 ```powershell
-Get-FileHash .\PhoenixStudio-vX.Y.zip -Algorithm SHA256
+Get-FileHash .\PhoenixStudio-vX.Y.Z-win64.zip -Algorithm SHA256
 ```
 
 El valor debe coincidir con el de las notas de la versión.
 
-Análisis de VirusTotal de la v1.0.1 (0 / 66 detecciones): [https://www.virustotal.com/gui/file/f8243dec70ed48e1c0ba76f0e45ff4b47cb3d92ca3e1e4e0be628aee7986d038](https://www.virustotal.com/gui/file/f8243dec70ed48e1c0ba76f0e45ff4b47cb3d92ca3e1e4e0be628aee7986d038)
+Cada versión se analiza en VirusTotal, MetaDefender y Hybrid Analysis; los enlaces a sus resultados están en las notas de la versión y en la página de descarga: [https://phoenixstudio.dev/es/descargar/](https://phoenixstudio.dev/es/descargar/)
 
 > Windows SmartScreen o tu antivirus pueden advertir de un programa sin firma digital. Si lo bajaste de esta página y el hash coincide, puedes elegir *Más información > Ejecutar de todas formas*.
 
